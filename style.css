@@ -46,8 +46,23 @@
 }
 
 .br-up-f{
-    border-right: solid red;
+border-right: solid red;
     color: white;
     margin-top: 30px;
-   margin-left: 20px;
+    margin-left: 20px;
+}
+
+  
+  .palceholgerImg{
+    border: 1px solid red;
+    width: 70%;
+    height: 40px;
+    text-align: center;
+}
+  
+.palceholgerImg2{
+    border: 1px solid red;
+    width: 70%;
+    height: 80px;
+    background-color: rgb(94, 1, 1);
 }
