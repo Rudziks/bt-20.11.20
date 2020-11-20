@@ -1,0 +1,53 @@
+.bg-c-up{
+    background-color: rgb(224, 224, 224);
+}
+
+.img-up{
+    height: 100px;
+    width: 800px;
+   margin-left: 650px;
+}
+
+.bg-nav-m{
+    background-color: rgb(94, 1, 1)
+}
+
+.br-up{
+    border-right: solid rgb(201, 0, 0);
+    color: white;
+}
+
+.bg-kitch{
+    background-image: url(./IMG/meblex.png);
+    height: 350px;
+}
+
+.bg-c-m{
+    background-color: rgb(201, 0, 0);
+    text-align: center;
+}
+
+.bg-f{
+    background-color: rgb(94, 1, 1);
+}
+
+.p-f{
+    font-size: 20px;
+}
+
+.img-fott{
+    height: 100px;
+    width: 200px;
+}
+
+.bg-nav-f{
+    background-color:rgb(201, 0, 0);
+    height: 100px;
+}
+
+.br-up-f{
+    border-right: solid red;
+    color: white;
+    margin-top: 30px;
+   margin-left: 20px;
+}
